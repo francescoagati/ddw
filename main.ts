@@ -26,7 +26,7 @@ async function resolveData(data) {
 // Funzione principale per eseguire il codice
 async function main() {
     const result = await resolveData(data);
-    console.log("[LOG]: Result finale:", result); 
+    console.log("[LOG]: Result finale:", result);
     // Output atteso: { a: "x", b: "y", c: null, d: 4, e: { a: 2 }, f: [1, 2, 3] }
 }
 
