@@ -11,8 +11,6 @@
                 "editor.formatOnSave": true
             },
             "extensions": [
-                "dbaeumer.vscode-eslint",
-                "esbenp.prettier-vscode",
                 "samverschueren.linter-xo"
             ]
         }
