@@ -7,8 +7,7 @@
     "customizations": {
         "vscode": {
             "settings": {
-                "terminal.integrated.shell.linux": "/bin/bash",
-                "editor.formatOnSave": true
+                "terminal.integrated.shell.linux": "/bin/bash"
             },
             "extensions": [
                 "samverschueren.linter-xo"
