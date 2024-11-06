@@ -14,7 +14,7 @@ RUN apt-get update && apt-get install -y build-essential && apt-get clean && rm 
 RUN npm install
 
 # install globally eslint typescript
-RUN npm install -g eslint typescript
+#RUN npm install -g eslint typescript
 
 # Expose port 3000 (or another port, as needed)
 EXPOSE 3000
